@@ -4,9 +4,9 @@ I'm a recent IT graduate with a passion for tech, data, and analytics. Currently
 
 ## 🚀 My Skills
 - **Data Analysis:** Excel, SQL, Python, Pandas, Matplotlib  
-- **Databases:** MySQL, PostgreSQL  
+- **Databases:** MySQL, PostgreSQL, SQLite
 - **Web Development:** HTML, CSS, JavaScript, PHP  
-- **Other:** Tech enthusiast | History buff | Geography geek
+- **Other:** C, Java, Java GUI (Swing).
 
 ## 🌟 Featured Project
 [Excel Project - Data Analytics](https://github.com/GeorgioIO/excel_project_data_analytics)  
