@@ -8,7 +8,7 @@ I'm a recent IT graduate with a passion for tech, data, and analytics. Currently
 - **Web Development:** HTML, CSS, JavaScript, PHP  
 - **Other:** C, Java, Java GUI (Swing).
 
-## 🌟 Last
+## 🌟 Last Project
 [Excel Project - Data Analytics](https://github.com/GeorgioIO/Bookstore_sales_analysis_dashboard_project)  
 Dive into my Excel project, where I analyze and visualize data to uncover actionable insights. Check out the repo for dashboards, charts, and my approach to data storytelling.
 
