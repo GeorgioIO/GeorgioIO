@@ -3,7 +3,7 @@
 I'm a recent IT graduate with a passion for tech, data, and analytics. Currently, I'm on a journey to land my first Data Analyst role, combining my academic foundation with hands-on skills and a love for turning data into insights.
 
 ## 🚀 My Skills
-- **Data Analysis:** Excel, SQL, Python, Pandas, Matplotlib  
+- **Data Analysis:** Excel, SQL(MySQL, PostgreSQL, SQLite), Python, Pandas, Matplotlib  
 - **Databases:** MySQL, PostgreSQL, SQLite
 - **Web Development:** HTML, CSS, JavaScript, PHP  
 - **Other:** C, Java, Java GUI (Swing).
