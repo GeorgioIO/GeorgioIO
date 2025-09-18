@@ -17,7 +17,6 @@ I'm a recent IT graduate with a passion for tech, data, and analytics. Currently
 Dive into my Excel project, where I analyze and visualize data to uncover actionable insights. Check out the repo for dashboards, charts, and my approach to data storytelling.
 
 [Python (Pandas + Matplotlib) Project - Analysing a superstore dataset](https://github.com/GeorgioIO/Superstore_data_analysis_project)
-
 Check my Pandas project, where i analyzed a superstore dataset , created visuals and then documented the whole project. 
 
 ## 💡 About Me
