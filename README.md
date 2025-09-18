@@ -28,6 +28,7 @@ Check my Pandas project, where i analyzed a superstore dataset , created visuals
 - [LinkedIn](https://www.linkedin.com/in/georgio-jabbour-77a466319/)
 - [X (Twitter)](https://x.com/GeorgioJB__)
 - [HackerRank](https://www.hackerrank.com/profile/georgiojabbour_1)
+- [ICodeThis](https://icodethis.com/GeorgioIO)
 
 ---
 
