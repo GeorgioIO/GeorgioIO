@@ -1,6 +1,6 @@
 # 👋 Hi, I'm GeorgioIO!
 
-I'm a recent IT graduate with a passion for tech, data, and analytics. Currently, I'm on a journey to land my first Data Analyst role, combining my academic foundation with hands-on skills and a love for turning data into insights.
+I'm a recent IT graduate with a passion for tech, data, and analytics. Currently, I'm on a journey to land my first Data Analyst role, combining my academic foundation with hands-on skills and a love for turning data into insights. Alongside this, I also work as a Web Development freelancer, building practical and user-focused digital solutions.
 
 ## 🚀 My Skills
 - **Data Analysis:** Excel, SQL(MySQL, PostgreSQL, SQLite), Python, Pandas, Matplotlib  
