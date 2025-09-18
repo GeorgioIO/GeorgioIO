@@ -8,9 +8,9 @@ I'm a recent IT graduate with a passion for tech, data, and analytics. Currently
 - **Web Development:** HTML, CSS, JavaScript, PHP  
 - **Other:** C, Java, Java GUI (Swing).
 
-### 🎖️ HackerRank Badges
-- ⭐ 5 Stars SQL Golden Badge , **Over 50+ Solved Queries** 
-
+### 🎖️ Coding Badges
+- ⭐ 5 Stars SQL Golden Badge on [HackerRank](https://www.hackerrank.com/profile/georgiojabbour_1) , **Over 50+ Solved Queries.** 
+- ⭐ Golden Coding Badge on [ICodeThis](https://icodethis.com/GeorgioIO) , **25 Days streak of coding challenges.**
 
 ## 🌟 Latests Projects
 [Excel Project - Analysing a bookstore dataset](https://github.com/GeorgioIO/Bookstore_sales_analysis_dashboard_project)  
