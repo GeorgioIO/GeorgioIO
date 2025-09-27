@@ -12,7 +12,7 @@ I'm a recent IT graduate with a passion for tech, data, and analytics. Currently
 - ⭐ 5 Stars SQL Golden Badge on [HackerRank](https://www.hackerrank.com/profile/georgiojabbour_1) , **Over 50+ Solved Queries.** 
 - ⭐ Golden Coding Badge on [ICodeThis](https://icodethis.com/GeorgioIO) , **25 Days streak of coding challenges.**
 
-## 🌟 Latests Projects
+## 🌟 Latest Projects
 [Excel Project - Analysing a bookstore dataset](https://github.com/GeorgioIO/Bookstore_sales_analysis_dashboard_project)  
 Dive into my Excel project, where I analyze and visualize data to uncover actionable insights. Check out the repo for dashboards, charts, and my approach to data storytelling.
 
