@@ -14,7 +14,7 @@ I'm a recent IT graduate with a passion for tech, data, and analytics. Currently
 
 ## 🌟 Latest Projects
 [SQL Project - Analysing Northwind database](https://github.com/GeorgioIO/Sql_northwind_data_analysis_project)  
-Check my latest SQL projetc , where i analyzed and used excel to visualize **Northwind** database.
+Check my latest SQL project , where i analyzed and used excel to visualize **Northwind** database.
 
 [Excel Project - Analysing a bookstore dataset](https://github.com/GeorgioIO/Bookstore_sales_analysis_dashboard_project)  
 Dive into my Excel project, where I analyze and visualize data to uncover actionable insights. Check out the repo for dashboards, charts, and my approach to data storytelling.
