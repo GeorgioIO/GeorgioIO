@@ -1,4 +1,4 @@
-# 👋 Hi, I'm GeorgioIO!
+# 👋 Hi, I'm Georgio Jabbour!
 
 I’m a recent IT graduate with a broad interest in technology, problem-solving, and building practical digital solutions. I enjoy learning through hands-on projects, particularly in web development, while also working with data to support analysis and decision-making. I’m continuously developing my technical skills and enjoy turning ideas into clear, user-focused outcomes.
 
