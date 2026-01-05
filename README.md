@@ -1,11 +1,11 @@
 # 👋 Hi, I'm GeorgioIO!
 
-I'm a recent IT graduate with a passion for tech, data, and analytics. Currently, I'm on a journey to land my first Data Analyst role, combining my academic foundation with hands-on skills and a love for turning data into insights. Alongside this, I also work as a Web Development freelancer, building practical and user-focused digital solutions.
+I’m a recent IT graduate with a broad interest in technology, problem-solving, and building practical digital solutions. I enjoy learning through hands-on projects, particularly in web development, while also working with data to support analysis and decision-making. I’m continuously developing my technical skills and enjoy turning ideas into clear, user-focused outcomes.
 
 ## 🚀 My Skills
+- **Web Development:** HTML, CSS, JavaScript, PHP  
 - **Data Analysis:** Excel, SQL(MySQL, PostgreSQL, SQLite), Python, Pandas, Matplotlib  
 - **Databases:** MySQL, PostgreSQL, SQLite
-- **Web Development:** HTML, CSS, JavaScript, PHP  
 - **Other:** C, Java, Java GUI (Swing).
 
 ### 🎖️ Coding Badges
@@ -35,7 +35,7 @@ Check my Pandas project, where i analyzed a superstore dataset , created visuals
 
 ---
 
-> “Every great data story starts with curiosity and a spreadsheet.”
+> “Curiosity is the starting point of every good solution.”
 
 ---
 
