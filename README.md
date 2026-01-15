@@ -1,42 +1,95 @@
-# 👋 Hi, I'm Georgio Jabbour!
+# 👋 Hi, I’m Georgio Jabbour
 
-I’m a recent IT graduate with a broad interest in technology, problem-solving, and building practical digital solutions. I enjoy learning through hands-on projects, particularly in web development, while also working with data to support analysis and decision-making. I’m continuously developing my technical skills and enjoy turning ideas into clear, user-focused outcomes.
-
-## 🚀 My Skills
-- **Web Development:** HTML, CSS, JavaScript, PHP  
-- **Data Analysis:** Excel, SQL(MySQL, PostgreSQL, SQLite), Python, Pandas, Matplotlib  
-- **Databases:** MySQL, PostgreSQL, SQLite
-- **Other:** C, Java, Java GUI (Swing).
-
-### 🎖️ Coding Badges
-- ⭐ 5 Stars SQL Golden Badge on [HackerRank](https://www.hackerrank.com/profile/georgiojabbour_1) , **Over 50+ Solved Queries.** 
-- ⭐ Golden Coding Badge on [ICodeThis](https://icodethis.com/GeorgioIO) , **25 Days streak of coding challenges.**
-
-## 🌟 Latest Projects
-[SQL Project - Analysing Northwind database](https://github.com/GeorgioIO/Sql_northwind_data_analysis_project)  
-Check my latest SQL project , where i analyzed and used excel to visualize **Northwind** database.
-
-[Excel Project - Analysing a bookstore dataset](https://github.com/GeorgioIO/Bookstore_sales_analysis_dashboard_project)  
-Dive into my Excel project, where I analyze and visualize data to uncover actionable insights. Check out the repo for dashboards, charts, and my approach to data storytelling.
-
-[Python (Pandas + Matplotlib) Project - Analysing a superstore dataset](https://github.com/GeorgioIO/Superstore_data_analysis_project)
-Check my Pandas project, where i analyzed a superstore dataset , created visuals and then documented the whole project. 
-
-## 💡 About Me
-- 📚 Lifelong learner always exploring new tech tools and trends
-- 🌍 Passionate about history, geography, and global tech impact
-- 💭 Dreaming big to break into the tech industry and make a difference
-
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/georgio-jabbour-77a466319/)
-- [X (Twitter)](https://x.com/GeorgioJB__)
-- [HackerRank](https://www.hackerrank.com/profile/georgiojabbour_1)
-- [ICodeThis](https://icodethis.com/GeorgioIO)
+**Junior Web Developer**
+Recent IT graduate focused on building practical, maintainable web applications. I enjoy working across the stack—designing databases, writing backend logic, and building clean, user-focused interfaces. I learn best by building real projects and improving them iteratively.
 
 ---
 
-> “Curiosity is the starting point of every good solution.”
+## 🛠️ Core Development Skills
+
+**Web Development**
+HTML • CSS • JavaScript • PHP (CRUD systems, REST-style APIs)
+
+**Databases**
+SQL (MySQL, PostgreSQL, SQLite) • Database design • Joins & indexing
+
+**Data & Tooling**
+Git • Insomnia • Excel • Python (Pandas, Matplotlib)
+
+**Other Programming**
+C • Java • Java Swing 
 
 ---
 
-*Let’s connect, collaborate, and build the future together!*
+## 🏆 Proof of Consistency
+
+* ⭐ **HackerRank SQL (Gold, 5⭐)** — 50+ solved queries
+* ⭐ **ICodeThis (Gold)** — 25-day coding streak
+* 🥇 **Ranked 23rd nationally** in *Information Technology* among institute students in official examinations
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E‑Commerce Bookstore (Ongoing)
+
+**PHP • JavaScript • MySQL • HTML/CSS**
+A full-stack e-commerce bookstore with an admin dashboard.
+
+**Key features (in progress):**
+
+* Admin dashboard with CRUD operations (books, authors, genres)
+* REST-style PHP backend APIs
+* Relational database design with foreign keys
+* Dynamic UI built with modular JavaScript
+
+> This project is actively being developed and improved as a long-term portfolio piece.
+[https://github.com/GeorgioIO/ecommerce](https://github.com/GeorgioIO/ecommerce)
+
+
+---
+
+### 📊 LettersWar With Admin Dashboard
+
+**HTML/CSS • JavaScript • MySQL • PHP**
+A interactive trivia web game based on dfs algorithm
+
+* Admin dashboard with CRUD operations to add, remove, update questions.
+* A 5x5 game board developed with HTML, CSS, JavaScript (Modules Based).
+  🔗 [https://github.com/GeorgioIO/LettersWar](https://github.com/GeorgioIO/LettersWar)
+
+---
+
+### 📊 Northwind Database Analysis
+
+**SQL • Excel**
+Analyzed the Northwind database to answer business questions and extract insights.
+
+* Complex joins, aggregations, and subqueries
+* Clean, decision-oriented visualizations
+  🔗 [https://github.com/GeorgioIO/Sql_northwind_data_analysis_project](https://github.com/GeorgioIO/Sql_northwind_data_analysis_project)
+
+---
+
+### 🐍 Superstore Data Analysis
+
+**Python (Pandas, Matplotlib)**
+Exploratory data analysis and visualization of a retail dataset.
+
+* Data cleaning and transformation
+* Clear visual explanations
+  🔗 [https://github.com/GeorgioIO/Superstore_data_analysis_project](https://github.com/GeorgioIO/Superstore_data_analysis_project)
+
+---
+
+
+## 🔗 Connect
+
+* LinkedIn: [https://www.linkedin.com/in/georgio-jabbour-77a466319/](https://www.linkedin.com/in/georgio-jabbour-77a466319/)
+* GitHub: [https://github.com/GeorgioIO](https://github.com/GeorgioIO)
+* HackerRank: [https://www.hackerrank.com/profile/georgiojabbour_1](https://www.hackerrank.com/profile/georgiojabbour_1)
+* ICodeThis: [https://icodethis.com/GeorgioIO](https://icodethis.com/GeorgioIO)
+
+---
+
+> *Good software is built step by step — and improved every iteration.*
