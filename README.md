@@ -44,7 +44,7 @@ A full-stack e-commerce bookstore with an admin dashboard.
 * Dynamic UI built with modular JavaScript
 
 > This project is actively being developed and improved as a long-term portfolio piece.
-[https://github.com/GeorgioIO/ecommerce](https://github.com/GeorgioIO/ecommerce)
+  🔗 [https://github.com/GeorgioIO/ecommerce](https://github.com/GeorgioIO/ecommerce)
 
 
 ---
