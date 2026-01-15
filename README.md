@@ -14,10 +14,10 @@ HTML • CSS • JavaScript • PHP (CRUD systems, REST-style APIs)
 SQL (MySQL, PostgreSQL, SQLite) • Database design • Joins & indexing
 
 **Data & Tooling**
-Git • Insomnia • Excel • Python (Pandas, Matplotlib)
+Git • Excel • Python (Pandas, Matplotlib)
 
 **Other Programming**
-C • Java • Java Swing 
+C • Java • Java Swing
 
 ---
 
@@ -26,6 +26,15 @@ C • Java • Java Swing
 * ⭐ **HackerRank SQL (Gold, 5⭐)** — 50+ solved queries
 * ⭐ **ICodeThis (Gold)** — 25-day coding streak
 * 🥇 **Ranked 23rd nationally** in *Information Technology* among institute students in official examinations
+
+---
+
+## 📜 Certificates
+
+* 🎓 **CS50x: Introduction to Computer Science** — Harvard (2023)
+* 🎓 **CS50p: Introduction to Python** — Harvard (2024)
+* 🎓 **CS50sql: Introduction to SQL** — Harvard (2025)
+* 📜 **PHP Bootcamp** — Udemy (2025)
 
 ---
 
@@ -44,19 +53,18 @@ A full-stack e-commerce bookstore with an admin dashboard.
 * Dynamic UI built with modular JavaScript
 
 > This project is actively being developed and improved as a long-term portfolio piece.
-  🔗 [https://github.com/GeorgioIO/ecommerce](https://github.com/GeorgioIO/ecommerce)
-
-
+🔗 [https://github.com/GeorgioIO/ecommerce](https://github.com/GeorgioIO/ecommerce)
 ---
 
-### 📊 LettersWar With Admin Dashboard
+### 📊 LettersWar With Admin Dashboard 
 
-**HTML/CSS • JavaScript • MySQL • PHP**
-A interactive trivia web game based on dfs algorithm
+**HTML/CSS • JavaScript • MySQL • PHP** 
+A interactive trivia web game based on dfs algorithm 
 
 * Admin dashboard with CRUD operations to add, remove, update questions.
 * A 5x5 game board developed with HTML, CSS, JavaScript (Modules Based).
-  🔗 [https://github.com/GeorgioIO/LettersWar](https://github.com/GeorgioIO/LettersWar)
+🔗 [https://github.com/GeorgioIO/LettersWar](https://github.com/GeorgioIO/LettersWar)
+
 
 ---
 
@@ -81,7 +89,6 @@ Exploratory data analysis and visualization of a retail dataset.
   🔗 [https://github.com/GeorgioIO/Superstore_data_analysis_project](https://github.com/GeorgioIO/Superstore_data_analysis_project)
 
 ---
-
 
 ## 🔗 Connect
 
