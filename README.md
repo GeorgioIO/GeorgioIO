@@ -8,16 +8,13 @@ Recent IT graduate focused on building practical, maintainable web applications.
 ## 🛠️ Core Development Skills
 
 **Web Development**
-HTML • CSS • JavaScript • PHP (CRUD systems, REST-style APIs)
+HTML • CSS • JavaScript • ReactJS • NodeJS • ExpressJS • TailwindCSS
 
 **Databases**
-SQL (MySQL, PostgreSQL, SQLite) • Database design • Joins & indexing
+MySQL • Database design • Joins & indexing
 
-**Data & Tooling**
-Git • Excel • Python (Pandas, Matplotlib)
-
-**Other Programming**
-C • Java • Java Swing
+**Tools**
+Git • GitHub • Insomnia  
 
 ---
 
@@ -53,40 +50,17 @@ A full-stack e-commerce bookstore with an admin dashboard.
 * Dynamic UI built with modular JavaScript
 
 > This project is actively being developed and improved as a long-term portfolio piece.
-🔗 [https://github.com/GeorgioIO/ecommerce](https://github.com/GeorgioIO/ecommerce)
+🔗 [Booknest (ecommerce platform)](https://github.com/GeorgioIO/ecommerce)
 ---
 
-### 📊 LettersWar With Admin Dashboard 
+### 📊 Letters War With Admin Dashboard 
 
-**HTML/CSS • JavaScript • MySQL • PHP** 
-A interactive trivia web game based on dfs algorithm 
+**ReactJS, NodeJS, ExpressJS, TailwindCSS** 
+A interactive trivia web game based on bfs algorithm 
 
-* Admin dashboard with CRUD operations to add, remove, update questions.
-* A 5x5 game board developed with HTML, CSS, JavaScript (Modules Based).
-🔗 [https://github.com/GeorgioIO/LettersWar](https://github.com/GeorgioIO/LettersWar)
-
-
----
-
-### 📊 Northwind Database Analysis
-
-**SQL • Excel**
-Analyzed the Northwind database to answer business questions and extract insights.
-
-* Complex joins, aggregations, and subqueries
-* Clean, decision-oriented visualizations
-  🔗 [https://github.com/GeorgioIO/Sql_northwind_data_analysis_project](https://github.com/GeorgioIO/Sql_northwind_data_analysis_project)
-
----
-
-### 🐍 Superstore Data Analysis
-
-**Python (Pandas, Matplotlib)**
-Exploratory data analysis and visualization of a retail dataset.
-
-* Data cleaning and transformation
-* Clear visual explanations
-  🔗 [https://github.com/GeorgioIO/Superstore_data_analysis_project](https://github.com/GeorgioIO/Superstore_data_analysis_project)
+* Role-based admin dashboard to manage questions and admins.
+* A 5x5 game board developed with ReactJS, TailwindCSS .
+🔗 [Letters war ]([https://github.com/GeorgioIO/LettersWar](https://github.com/GeorgioIO/letterswar-v2))
 
 ---
 
