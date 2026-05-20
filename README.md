@@ -60,7 +60,7 @@ A interactive trivia web game based on bfs algorithm
 
 * Role-based admin dashboard to manage questions and admins.
 * A 5x5 game board developed with ReactJS, TailwindCSS .
-🔗 [Letters war ]([https://github.com/GeorgioIO/LettersWar](https://github.com/GeorgioIO/letterswar-v2))
+🔗 [Letters war](https://github.com/GeorgioIO/letterswar-v2)
 
 ---
 
