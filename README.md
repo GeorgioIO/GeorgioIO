@@ -47,6 +47,7 @@ A interactive trivia web game based on bfs algorithm
   
 🔗 [Letters war](https://github.com/GeorgioIO/letterswar-v2)
 🌐 [Live version](https://letterswar-v2.vercel.app/)
+
 ---
 
 ### 🛒 E‑Commerce Bookstore 
