@@ -61,6 +61,7 @@ A full-stack e-commerce bookstore with an admin dashboard.
 * Dynamic UI built with modular JavaScript
 
 🔗 [Booknest (ecommerce platform)](https://github.com/GeorgioIO/ecommerce)
+
 ---
 
 
