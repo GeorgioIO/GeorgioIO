@@ -37,6 +37,17 @@ Git • GitHub • Insomnia
 
 ## 🚀 Featured Projects
 
+### 📊 Letters War With Admin Dashboard 
+
+**ReactJS , Tanstack , NodeJS, ExpressJS, TailwindCSS** 
+A interactive trivia web game based on bfs algorithm 
+
+* Role-based admin dashboard to manage questions and admins.
+* A 5x5 game board developed with ReactJS, TailwindCSS .
+🔗 [Letters war](https://github.com/GeorgioIO/letterswar-v2)
+🌐 [Live version](https://letterswar-v2.vercel.app/)
+---
+
 ### 🛒 E‑Commerce Bookstore (Ongoing)
 
 **PHP • JavaScript • MySQL • HTML/CSS**
@@ -53,16 +64,7 @@ A full-stack e-commerce bookstore with an admin dashboard.
 🔗 [Booknest (ecommerce platform)](https://github.com/GeorgioIO/ecommerce)
 ---
 
-### 📊 Letters War With Admin Dashboard 
 
-**ReactJS, NodeJS, ExpressJS, TailwindCSS** 
-A interactive trivia web game based on bfs algorithm 
-
-* Role-based admin dashboard to manage questions and admins.
-* A 5x5 game board developed with ReactJS, TailwindCSS .
-🔗 [Letters war](https://github.com/GeorgioIO/letterswar-v2)
-
----
 
 ## 🔗 Connect
 
