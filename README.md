@@ -60,7 +60,6 @@ A full-stack e-commerce bookstore with an admin dashboard.
 * Relational database design with foreign keys
 * Dynamic UI built with modular JavaScript
 
-> This project is actively being developed and improved as a long-term portfolio piece.
 🔗 [Booknest (ecommerce platform)](https://github.com/GeorgioIO/ecommerce)
 ---
 
