@@ -48,7 +48,7 @@ A interactive trivia web game based on bfs algorithm
 🌐 [Live version](https://letterswar-v2.vercel.app/)
 ---
 
-### 🛒 E‑Commerce Bookstore (Ongoing)
+### 🛒 E‑Commerce Bookstore 
 
 **PHP • JavaScript • MySQL • HTML/CSS**
 A full-stack e-commerce bookstore with an admin dashboard.
