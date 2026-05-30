@@ -18,20 +18,17 @@ Git • GitHub • Insomnia
 
 ---
 
-## 🏆 Proof of Consistency
-
-* ⭐ **HackerRank SQL (Gold, 5⭐)** — 50+ solved queries
-* ⭐ **ICodeThis (Gold)** — 25-day coding streak
-* 🥇 **Ranked 23rd nationally** in *Information Technology* among institute students in official examinations
-
----
-
-## 📜 Certificates
+## 📜 Certificates & Achievements
 
 * 🎓 **CS50x: Introduction to Computer Science** — Harvard (2023)
 * 🎓 **CS50p: Introduction to Python** — Harvard (2024)
 * 🎓 **CS50sql: Introduction to SQL** — Harvard (2025)
 * 📜 **PHP Bootcamp** — Udemy (2025)
+
+* ⭐ **HackerRank SQL (Gold, 5⭐)** — 50+ solved queries
+* ⭐ **ICodeThis (Gold)** — 25-day coding streak
+* 🥇 **Ranked 23rd nationally** in *Information Technology* among institute students in official examinations
+
 
 ---
 
